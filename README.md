@@ -9,9 +9,21 @@
 <a href="https://docs.microsoft.com/en-us/dax/" target="_blank"><img src="https://img.shields.io/badge/DAX-FF6C37?style=for-the-badge&logoColor=white" alt="DAX"></a>
 <a href="https://lookerstudio.google.com/" target="_blank"><img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Looker Studio"></a>
 
-## 🏢 About Potenciar Solidario
+## 🎓 Educational & Professional Context
 
-Potenciar Solidario is a non-governmental organization dedicated to social impact through various community programs across Latin America. This comprehensive financial dashboard provides transparent analysis of organizational operations from 2018-2024, supporting data-driven decision making, donor transparency, and operational optimization.
+This comprehensive financial analysis was developed as part of the **Data Analytics Fundamentals** program, a collaborative training initiative between **Guayerd** and **IBM** designed for Latin American professionals, demonstrating advanced Power BI capabilities for non-profit financial transparency and management.
+
+**Training Program:** <a href="https://ibm-community.skillsbuild.org/guayerd-fundamentos-de-data-analytics" target="_blank"><img src="https://img.shields.io/badge/IBM_SkillsBuild-Data_Analytics_Fundamentals-0F1419?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM SkillsBuild + Guayerd"></a>
+
+**Course Catalog:** <a href="https://www.guayerd.com/catalogue/" target="_blank"><img src="https://img.shields.io/badge/Guayerd-Course_Catalogue-0066CC?style=for-the-badge" alt="Guayerd Catalogue"></a>
+
+**Project Scope:** Real-world NGO financial analysis covering 6 years of operations across Latin America, with complete donor and vendor transaction analysis for organizational transparency and strategic decision-making.
+
+*Data has been appropriately anonymized while maintaining analytical integrity and real-world business patterns.*
+
+## 🏢 About the Organization
+
+This analysis focuses on a non-governmental organization dedicated to social impact through various community programs across Latin America. The comprehensive financial dashboard provides transparent analysis of organizational operations from 2018-2024, supporting data-driven decision making, donor transparency, and operational optimization.
 
 > *"Programa anual, 100% gratuito y abierto a organizaciones sociales que trabajan en Argentina, por la dignidad de personas en situación de vulnerabilidad."*
 
@@ -20,7 +32,7 @@ Potenciar Solidario is a non-governmental organization dedicated to social impac
 This Power BI dashboard represents a significant evolution from the original Looker Studio analysis, incorporating advanced business intelligence capabilities and enhanced analytical depth.
 
 ### **Foundation: Looker Studio Analysis**
-[![View Live Dashboard](https://img.shields.io/badge/Looker_Studio-Interactive_Dashboard-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://lookerstudio.google.com/reporting/b546b575-7c00-4c8b-9c6a-c08629d70ecf)
+<a href="https://lookerstudio.google.com/reporting/b546b575-7c00-4c8b-9c6a-c08629d70ecf" target="_blank"><img src="https://img.shields.io/badge/Looker_Studio-Interactive_Dashboard-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="View Live Dashboard"></a>
 
 The initial analysis established core insights:
 - ✅ **$190,326,374 ARS** in total donations (140 donors, 10 countries)
@@ -392,10 +404,10 @@ The dashboard showcases the intersection of:
 This financial analysis represents the evolution of data analytics capabilities:
 
 ### **Related Projects**
-- **[Construction Compliance Analyzer](https://github.com/EnithV/construction-compliance-analyzer)**: ML-powered infrastructure risk assessment
-- **[Water Quality Monitor](https://github.com/EnithV/water-quality-monitor)**: Real-time treatment plant monitoring
-- **[LLM LATAM Content Pipeline](https://github.com/EnithV/llm-latam-content-pipeline)**: Ethical AI content for Latin American markets
-- **[Portfolio Website](https://enithv.github.io/portfolio-website/)**: Comprehensive project showcase
+- **<a href="https://github.com/EnithV/construction-compliance-analyzer" target="_blank">Construction Compliance Analyzer</a>**: ML-powered infrastructure risk assessment
+- **<a href="https://github.com/EnithV/water-quality-monitor" target="_blank">Water Quality Monitor</a>**: Real-time treatment plant monitoring
+- **<a href="https://github.com/EnithV/llm-latam-content-pipeline" target="_blank">LLM LATAM Content Pipeline</a>**: Ethical AI content for Latin American markets
+- **<a href="https://enithv.github.io/portfolio-website/" target="_blank">Portfolio Website</a>**: Comprehensive project showcase
 
 ### **Technology Progression**
 ```
@@ -471,9 +483,9 @@ Looker Studio (Validated) → Power BI (Enhanced) → Advanced BI (Future)
 
 ### **Professional Profiles**
 - **Email**: egicelav@gmail.com
-- **LinkedIn**: [linkedin.com/in/gicelavargas](https://www.linkedin.com/in/gicelavargas/?locale=en_US)
-- **GitHub**: [github.com/EnithV](https://github.com/EnithV)
-- **Portfolio**: [enithv.github.io/portfolio-website](https://enithv.github.io/portfolio-website/)
+- **LinkedIn**: <a href="https://www.linkedin.com/in/gicelavargas/?locale=en_US" target="_blank">linkedin.com/in/gicelavargas</a>
+- **GitHub**: <a href="https://github.com/EnithV" target="_blank">github.com/EnithV</a>
+- **Portfolio**: <a href="https://enithv.github.io/portfolio-website/" target="_blank">enithv.github.io/portfolio-website</a>
 
 ### **Project Collaboration**
 - **Consultation**: NGO financial analysis and dashboard development
