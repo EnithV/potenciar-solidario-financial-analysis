@@ -11,7 +11,7 @@
 
 ## 🏢 About Potenciar Solidario
 
-Potenciar Solidario is a non-governmental organization dedicated to social impact through various community programs across Latin America. This comprehensive financial dashboard offers a transparent analysis of organizational operations from 2018 to 2024, supporting data-driven decision-making, donor transparency, and operational optimization.
+Potenciar Solidario is a non-governmental organization dedicated to social impact through various community programs across Latin America. This comprehensive financial dashboard provides transparent analysis of organizational operations from 2018-2024, supporting data-driven decision making, donor transparency, and operational optimization.
 
 > *"Programa anual, 100% gratuito y abierto a organizaciones sociales que trabajan en Argentina, por la dignidad de personas en situación de vulnerabilidad."*
 
