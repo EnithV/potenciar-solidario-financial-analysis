@@ -4,10 +4,10 @@
 
 *This project demonstrates advanced data analysis capabilities using Power BI for non-profit financial management, featuring complete revenue and expense tracking, donor analytics, and operational transparency metrics.*
 
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/excel)
-[![DAX](https://img.shields.io/badge/DAX-FF6C37?style=for-the-badge&logoColor=white)](https://docs.microsoft.com/en-us/dax/)
-[![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://lookerstudio.google.com/)
+<a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"></a>
+<a href="https://www.microsoft.com/excel" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"></a>
+<a href="https://docs.microsoft.com/en-us/dax/" target="_blank"><img src="https://img.shields.io/badge/DAX-FF6C37?style=for-the-badge&logoColor=white" alt="DAX"></a>
+<a href="https://lookerstudio.google.com/" target="_blank"><img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Looker Studio"></a>
 
 ## 🏢 About Potenciar Solidario
 
