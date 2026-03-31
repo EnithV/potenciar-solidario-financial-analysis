@@ -7,7 +7,7 @@
 <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"></a>
 <a href="https://www.microsoft.com/excel" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"></a>
 <a href="https://docs.microsoft.com/en-us/dax/" target="_blank"><img src="https://img.shields.io/badge/DAX-FF6C37?style=for-the-badge&logoColor=white" alt="DAX"></a>
-<a href="https://lookerstudio.google.com/" target="_blank"><img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Looker Studio"></a>
+<a href="https://lookerstudio.google.com/s/iESBg8dQb4w" target="_blank"><img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Looker Studio"></a>
 
 ## 🎓 Educational & Professional Context
 
